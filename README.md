@@ -51,7 +51,7 @@ In the Data Science itinerary with Python we will learn how to extract value fro
 
 ## S06 Sampling methods
 
--[ S06 T01: Sampling Models](https://github.com/jesussantana/Sampling)
+- [ S06 T01: Sampling Models](https://github.com/jesussantana/Sampling)
 
 ## S07 Data, Probabilities and Statistics
 
@@ -63,7 +63,7 @@ In the Data Science itinerary with Python we will learn how to extract value fro
 
 ## S09 Correlation, Feature Scaling & Feature Engineering
 
--[ S09 T01: Feature Engineering](https://github.com/jesussantana/Feature-Engineering)
+- [ S09 T01: Feature Engineering](https://github.com/jesussantana/Feature-Engineering)
 
 ## S10 Introduction Machine Learning
 
