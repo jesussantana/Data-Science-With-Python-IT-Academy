@@ -89,7 +89,7 @@ In the Data Science itinerary with Python we will learn how to extract value fro
 
 - [S16 T01: Pipelines, grid search i text mining](https://github.com/jesussantana/Advanced-Machine-Learning)
 
-- S16 T02: Tasca de web scraping
+- [S16 T02: Web Scraping](https://github.com/jesussantana/Web-Scraping)
 
 ## S17 Relational databases
 
