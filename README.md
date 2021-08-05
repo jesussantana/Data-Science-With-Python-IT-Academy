@@ -1,5 +1,5 @@
 # [Data Science with Python - IT Academy](https://www.barcelonactiva.cat/es/itacademy)
-![IT-Academy](https://esmarketingdigital.com/images/IT-Academy_Barcelona-Activa.png)
+![IT-Academy](https://esmarketingdigital.com/images/IT-Academy.png)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
  
