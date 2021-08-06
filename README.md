@@ -1,5 +1,5 @@
 # [Data Science with Python - IT Academy](https://www.barcelonactiva.cat/es/itacademy)
-![IT-Academy](https://esmarketingdigital.com/images/IT-Academy.png)
+![IT-Academy](https://esmarketingdigital.com/images/IT-Academy1.png)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
  
@@ -101,7 +101,7 @@
 
 - [S18 T01: NoSQL database](https://github.com/jesussantana/NoSQL-Database)
 
-## S19 Data science toolbox
+## S19 Data science Toolbox
 
 - [S19 T01: Interactive display with ElasticSearch Stack Kibana](https://github.com/jesussantana/Kibana/blob/main/notebooks/S19_T01_Kibana.ipynb)
 
