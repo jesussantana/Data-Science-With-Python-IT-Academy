@@ -13,13 +13,13 @@
 # Objectives
 
 
-In the Data Science itinerary with Python we will learn how to extract value from data by ingesting, transforming, storing, analyzing and visualizing data.
+## In the Data Science itinerary with Python we will learn how to extract value from data by ingesting, transforming, storing, analyzing and visualizing data.
 
 ---
-## Final Project
-- [Project Crypto Punks](https://github.com/jesussantana/IT-Academy-Project-CryptoPunks/blob/main/README.md)
-## Technical Test
-- [Barcelona Rainfall Analysis](https://github.com/jesussantana/Barcelona-Rainfall-Analysis/blob/main/README.md)  
+# Final Project
+## - [Project Crypto Punks](https://github.com/jesussantana/IT-Academy-Project-CryptoPunks/blob/main/README.md)
+# Technical Test
+## - [Barcelona Rainfall Analysis](https://github.com/jesussantana/Barcelona-Rainfall-Analysis/blob/main/README.md)  
 ---
 # COURSE SYLLABUS
 
