@@ -17,9 +17,9 @@
 
 ---
 # Final Project
-## - [Project Crypto Punks](https://github.com/jesussantana/IT-Academy-Project-CryptoPunks/blob/main/README.md)
+## - [Project Crypto Punks](https://drive.google.com/file/d/1PpVMcJtAnLuVKMa4fPB6SqX1Fb2bbI-G/view?usp=drive_link)
 # Technical Test
-## - [Barcelona Rainfall Analysis](https://github.com/jesussantana/Barcelona-Rainfall-Analysis/blob/main/README.md)  
+## - [Barcelona Rainfall Analysis](https://drive.google.com/file/d/1NVu3lp8N7PPKJEqoKxQ469SYdIPACB3b/view?usp=sharing)
 ---
 # COURSE SYLLABUS
 
